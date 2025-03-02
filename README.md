@@ -27,9 +27,13 @@ To run the model, follow these steps:
 
 1. Download all files from this repository and ensure they are placed within the same root directory.
 2. Open a terminal, navigate to the directory containing these files, and execute the appropriate script based on the model you want to test:
+
 To test the pre-trained VGG16 model, run: python Breakout_prediction_based_on_pretrained_VGG16.py
+
 To test the MixDCNN model, run:, python Breakout_prediction_by_MixDCNN.py
+
 Note: Ensure you run the code in an environment supporting your PyTorch framework, with compatible versions of CUDA and cuDNN installed.
+
 3. Once the script executes, it will print information such as network parameters and framework details. To simplify the output, comment out the relevant print statements in the script.
 5. Note: We apologize for including some output information in Chinese; we are working to provide a fully English version in future updates.
 
