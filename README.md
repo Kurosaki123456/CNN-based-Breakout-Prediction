@@ -60,3 +60,22 @@ MixDCNN (fine-grained image classification model)
 These two CNN models—VGG16 and MixDCNN—are utilized to differentiate between true and false sticking breakouts, with MixDCNN demonstrating superior generalization ability compared to VGG16, particularly in scenarios where true and false sticking regions exhibit similar Y-shaped patterns.
 
 ## Results
+The following is a summary of the testing results obtained:
+
+Confusion matrix:
+
+![image](https://github.com/user-attachments/assets/60bea7ae-e759-4975-8f97-4c8c865c1e71)
+
+Missing  reports: 0
+
+False alarms: 2 (False alarm rate = 1.26%)
+
+Recall: 1.00
+
+F1 score: 0.947
+
+G-mean: 0.99
+
+AUC: 0.99
+
+This result is achieved by the MixDCNN model, which demonstrates superior performance compared to the pre-trained VGG16 model in identifying authentic sticking breakouts.
