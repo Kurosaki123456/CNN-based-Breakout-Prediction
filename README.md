@@ -78,4 +78,4 @@ G-mean: 0.99
 
 AUC: 0.99
 
-This result is achieved by the MixDCNN model, which demonstrates superior performance compared to the pre-trained VGG16 model in identifying authentic sticking breakouts.
+This result is achieved by the MixDCNN model, which demonstrates superior performance compared to the pre-trained VGG16 model in identifying authentic sticking breakouts. For more detailed analysis, please refer to the paper.
