@@ -50,3 +50,13 @@ Note: Ensure you run the code in an environment supporting your PyTorch framewor
         └─纵裂
 ## Models
 ### Model Used
+
+The project utilizes the following machine learning models:
+
+VGG16 model (pretrained on the ImageNet dataset)
+
+MixDCNN (fine-grained image classification model)
+
+These two CNN models—VGG16 and MixDCNN—are utilized to differentiate between true and false sticking breakouts, with MixDCNN demonstrating superior generalization ability compared to VGG16, particularly in scenarios where true and false sticking regions exhibit similar Y-shaped patterns.
+
+## Results
