@@ -13,7 +13,7 @@ This project develops a mold breakout prediction model using convolutional neura
 
 ## Installation
 ### Prerequisites
-### Before running the project, make sure you have the following dependencies installed:
+Before running the project, make sure you have the following dependencies installed:
 
 - Python 3.x
 - Pip (Python package manager)
