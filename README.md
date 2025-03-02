@@ -32,7 +32,7 @@ To run the model, follow these steps:
 
     To test the MixDCNN model, run:, python Breakout_prediction_by_MixDCNN.py
 
-Note: Ensure you run the code in an environment supporting your PyTorch framework, with compatible versions of CUDA and cuDNN installed.
+    Note: Ensure you run the code in an environment supporting your PyTorch framework, with compatible versions of CUDA and cuDNN installed.
 
 3. Once the script executes, it will print information such as network parameters and framework details. To simplify the output, comment out the relevant print statements in the script.
 5. Note: We apologize for including some output information in Chinese; we are working to provide a fully English version in future updates.
