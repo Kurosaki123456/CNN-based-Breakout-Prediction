@@ -38,6 +38,8 @@ To run the model, follow these steps:
 5. Note: We apologize for including some output information in Chinese; we are working to provide a fully English version in future updates.
 
 ## Project Structure
+The project is organized as follows:
+
 │  Breakout Image Index.txt
 │  Breakout_prediction_based_on_pretrained_VGG16.py
 │  Breakout_prediction_by_MixDCNN.py
